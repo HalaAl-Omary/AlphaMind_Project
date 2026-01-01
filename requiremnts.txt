@@ -1,0 +1,10 @@
+fastmcp 
+ollama
+crewai
+langchain-community
+sentence-transformers
+chromadb
+yfinance
+pandas
+streamlit
+plotly
